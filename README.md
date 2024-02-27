@@ -1,4 +1,5 @@
 # Exercise-04b-TileSets-Levels
+Added new levels and tiles
 
 ## Implementation
 
@@ -9,6 +10,6 @@ https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
 https://github.com/SebLague/2DPlatformer-Tutorial
 
 ## Future Development
-
+Will work on making it not ugly 
 ## Created by
-Nathan Mishler
+Talli Cline
